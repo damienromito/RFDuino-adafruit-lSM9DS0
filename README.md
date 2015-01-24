@@ -20,4 +20,4 @@ https://github.com/RFduino/RFduino
 
 https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-dof-breakouts/wiring-and-test
 
-But use the lib Adafruit_LSM9DS0_RFDUINO rather the default lib.
+But use the lib Adafruit_LSM9DS0_RFDUINO rather than the default lib.
